@@ -1,5 +1,36 @@
 # Hasil
 
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 100
+    bar [100, 89, 3]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 100
+    "2" : 89
+    "3" : 3
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 100   | [100][p-1]  | 52,08      |
+| 2   | PRABOWO GIBRAN | 89    | [89][p-2]   | 46,35      |
+| 3   | GANJAR MAHFUD  | 3     | [3][p-3]    | 1,56       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/36-banten/sub/72-kota-cilegon/sub/01-cibeber/sub/1006-kalitimbang/sub/011-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/36-banten/sub/72-kota-cilegon/sub/01-cibeber/sub/1006-kalitimbang/sub/011-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/36-banten/sub/72-kota-cilegon/sub/01-cibeber/sub/1006-kalitimbang/sub/011-tps/sub/paslon-3.txt
+
 ## Foto C Plano
 
 https://sirekap-obj-formc.kpu.go.id/65bf/pemilu/ppwp/36/72/01/10/06/3672011006011-20240228-005430--23c22e27-7c9d-469a-bd81-fc3f2156eda0.jpg
@@ -13,7 +44,7 @@ https://sirekap-obj-formc.kpu.go.id/65bf/pemilu/ppwp/36/72/01/10/06/367201100601
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-28 01:00:00 |
+| Time Stamp | 2024-03-14 10:00:00 |
 
 
 ## DATA PEMILIH TETAP
